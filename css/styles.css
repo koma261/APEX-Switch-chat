@@ -1,0 +1,75 @@
+body {
+ text-align: center;
+ margin: 0 auto;
+ color: #333;
+}
+
+.photo {
+ text-align: center;
+}
+
+header h1 {
+  text-align: center;
+  border: solid 3px; 
+  padding: 32px;
+  margin: 32px;
+}
+
+
+.club h1{
+  text-align: center;
+  font-size: 40px;
+  padding: 0%;
+  margin: 80px;
+  margin-bottom: 300px;
+}
+
+.club img {
+  width: 50%;
+  /* text-align: center; */
+  margin: 0 auto;
+  /* margin-left:450px; */
+}
+
+.club h2 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 50px;
+  /* font-size: 20px; */
+}
+
+.text ul {
+  text-align: center;
+  width: 600px;
+  font-size: 25px;
+  list-style: none;
+  /* float: left; */
+  /* margin: 60px 800px 200px 450p; */
+  margin: 60px auto 150px;
+  /* margin: 0 auto; */
+  /* border: solid #333; */
+}
+
+
+
+.club h3 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: 300px;
+  margin-bottom: 50px;
+}
+
+.official {
+  text-align: center;
+  opacity: 0.5;
+  color: #333;
+  /* border: solid 3px dimgray; */
+
+}
+
+.official:hover{
+  color:darkgoldenrod;
+  opacity: 1;
+  transition-delay: 0.5s;
+}
